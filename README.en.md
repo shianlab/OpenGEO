@@ -13,9 +13,10 @@
 
 [简体中文](README.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[🧭 Knowledge Base](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f)
-· [📚 Academic Papers](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd)
-· [📰 Industry Reports](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc)
+[🧭 Navigation](overview/README.md)
+· [📚 Academic Papers](library/papers/README.md)
+· [📰 Industry Reports](library/reports/README.md)
+· [☁️ Online KB (Feishu)](https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f)
 · [🐙 GitHub](https://github.com/shianlab/OpenGEO)
 
 </div>
@@ -59,36 +60,38 @@ GEO does not replace SEO; it is the essential next layer under a new distributio
 
 ## 🏗️ Knowledge Architecture
 
-The knowledge base follows a cognitive path from **theory → mechanisms → concepts → methods → practice**, while also covering self-media, scenarios, tools, cases, and live developments. Every layer can be browsed independently in the online knowledge base:
+The knowledge base follows a cognitive path from **theory → mechanisms → concepts → methods → practice**, while also covering self-media, scenarios, tools, cases, and live developments. The **GitHub** column below browses this repository directly; the **Feishu** column points to the continuously updated online source:
 
-| Layer | What it contains | Open |
-| :--- | :--- | :--- |
-| 👋 **About Us** | Project origins, positioning, and maintenance notes | [Open](https://larkcommunity.feishu.cn/wiki/FRbqwPpwXiUbAqkBMoKcirjKnFc) |
-| 🧭 **Overview & Navigation** | Full map of the library, reading paths, search guide | [Open](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f) |
-| 📚 **Theory** | Academic papers, expert statements, white/red/blue papers | [Open](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge) |
-| ⚙️ **Mechanisms** | How AI retrieval, generation, ranking, and citation actually work | [Open](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg) |
-| 🔤 **Concepts** | Core GEO terms and glossary entries | [Open](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc) |
-| 📣 **Self-Media** | How content platforms and account operations connect with GEO | [Open](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd) |
-| 📐 **Methods** | Reusable optimization frameworks, processes, and playbooks | [Open](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc) |
-| 🛠️ **Practice** | Hands-on operation guides and field notes | [Open](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse) |
-| 🏢 **Scenarios** | GEO applications across industries, roles, and scales | [Open](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd) |
-| 🔧 **Tools** | Monitoring, diagnosis, and optimization tools | [Open](https://larkcommunity.feishu.cn/wiki/Wqskw7298ibxZSkxyxDcF5cjnGb) |
-| 📁 **Cases** | Real GEO case studies of brands and content | [Open](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg) |
-| 📰 **Resources & News** | Industry news, trend tracking, external resource directory | [Open](https://larkcommunity.feishu.cn/wiki/I3ZWw4TM8iNZsxk0yDBcIVwGnSw) |
-| 🤝 **About OpenGEO** | Open principles, collaboration, and contact | [Open](https://larkcommunity.feishu.cn/wiki/YXdZwU1LPiZr1OkciDqcSEZVnDI) |
+| Layer | What it contains | GitHub mirror | Feishu source |
+| :--- | :--- | :--- | :--- |
+| 👋 **About Us** | Project origins, positioning, and maintenance notes | — | [Feishu](https://larkcommunity.feishu.cn/wiki/FRbqwPpwXiUbAqkBMoKcirjKnFc) |
+| 🧭 **Overview & Navigation** | Full map of the library, reading paths, search guide | [Open](overview/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f) |
+| 📚 **Theory** | Academic papers, expert statements, white/red/blue papers | [Open](theory/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge) |
+| ⚙️ **Mechanisms** | How AI retrieval, generation, ranking, and citation actually work | [Open](mechanism/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg) |
+| 🔤 **Concepts** | Core GEO terms and glossary entries | [Open](concepts/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc) |
+| 📣 **Self-Media** | How content platforms and account operations connect with GEO | [Open](media/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd) |
+| 📐 **Methods** | Reusable optimization frameworks, processes, and playbooks | [Open](methods/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc) |
+| 🛠️ **Practice** | Hands-on operation guides and field notes | [Open](practice/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse) |
+| 🏢 **Scenarios** | GEO applications across industries, roles, and scales | [Open](scenarios/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd) |
+| 🔧 **Tools** | Monitoring, diagnosis, and optimization tools | [Open](tools/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Wqskw7298ibxZSkxyxDcF5cjnGb) |
+| 📁 **Cases** | Real GEO case studies of brands and content | [Open](cases/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg) |
+| 📰 **Resources & News** | Industry news, trend tracking, external resource directory | [Open](resources/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/I3ZWw4TM8iNZsxk0yDBcIVwGnSw) |
+| 🤝 **About OpenGEO** | Open principles, collaboration, and contact | — | [Feishu](https://larkcommunity.feishu.cn/wiki/YXdZwU1LPiZr1OkciDqcSEZVnDI) |
+
+> Layer pages currently provide the **framework and table of contents**; body text is written in the Feishu knowledge base and synced here as it is completed. Each page header links back to its Feishu source.
 
 ---
 
 ## 📚 Research & Report Library
 
-Every curated source receives a **unified catalogue entry**: cover, author/institution, publication year, language and region, topic tags, evidence grade, an objective one-sentence summary, plus a link to the original source and the PDF where licensing permits.
+Every curated source receives a **unified catalogue entry**: author/institution, publication year, language and region, topic tags, evidence grade, an objective one-sentence summary, and a link to the public original.
 
-| Library | Count | Contents | Open |
-| :--- | :---: | :--- | :--- |
-| 🎓 **Academic Papers** | **40** | 39 international academic papers + 1 Chinese translation, covering GEO, LLM citation, generative retrieval, and related topics | [Enter](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd) |
-| 📊 **Industry Reports** | **28** | International and China-market industry reports, plus white / red / blue papers | [Enter](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc) |
+| Library | Count | Contents | GitHub catalogue | Feishu library (with PDFs) |
+| :--- | :---: | :--- | :--- | :--- |
+| 🎓 **Academic Papers** | **40** | 39 international academic papers + 1 Chinese translation, covering GEO, LLM citation, generative retrieval, and related topics | [Open index](library/papers/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd) |
+| 📊 **Industry Reports** | **28** | International and China-market industry reports, plus white / red / blue papers | [Open index](library/reports/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc) |
 
-> Copyright of third-party papers and reports remains with their original authors and institutions. OpenGEO provides only abstracts, catalogue metadata, and links to public sources; commercial materials with a vested stance or questionable data methodology are explicitly flagged as "read with caution".
+> The GitHub indexes contain **bibliographic records, one-sentence summaries, and public source links only — no PDF files** (for copyright and repository-size reasons); PDFs and cover cards live in the Feishu library pages. Copyright of third-party papers and reports remains with their original authors and institutions. OpenGEO provides only abstracts, catalogue metadata, and links to public sources; commercial materials with a vested stance or questionable data methodology are explicitly flagged as "read with caution".
 
 ---
 
@@ -102,6 +105,7 @@ OpenGEO/
 ├── README.en.md           # English (this file)
 ├── README.ja.md           # 日本語
 ├── README.ko.md           # 한국어
+├── overview/              # 🧭 Overview & Navigation: full map & reading paths
 ├── theory/                # 📚 Theory: papers, expert statements, colored papers
 ├── mechanism/             # ⚙️ Mechanisms: AI retrieval & citation mechanics
 ├── concepts/              # 🔤 Concepts: glossary entries
@@ -113,8 +117,8 @@ OpenGEO/
 ├── cases/                 # 📁 Cases: case studies
 ├── resources/             # 📰 Resources & News
 └── library/
-    ├── papers/            # 🎓 Academic papers mirror (40)
-    └── reports/           # 📊 Industry reports mirror (28)
+    ├── papers/            # 🎓 Academic papers catalogue index (40, no PDFs)
+    └── reports/           # 📊 Industry reports catalogue index (28, no PDFs)
 ```
 
 ---
@@ -128,18 +132,18 @@ OpenGEO follows an **"maintain once, publish everywhere"** pipeline:
 3. **Publish openly** — reviewed content is synced to this GitHub repository and the project website; GitHub serves as the public mirror, version history, and community collaboration layer;
 4. **Iterate continuously** — updates increment version numbers; retractions and corrections are also logged, so citers always get a trustworthy version.
 
-> The online knowledge base offers the richest reading experience; GitHub is best for tracking changes, citing source files, and contributing.
+> The Feishu online knowledge base is the richest and fastest-updated reading experience; GitHub is best for tracking changes, citing source files, and contributing.
 
 ---
 
 ## 🚀 Quick Start
 
-Pick a path based on your role:
+Pick a path based on your role (all links point to pages inside this repository):
 
-- 🧑‍🎓 **New to GEO** → Start at [🧭 Overview & Navigation](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f), then build vocabulary in [🔤 Concepts](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc).
-- ✍️ **Creators / self-media operators** → Focus on [📣 Self-Media](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd), [📐 Methods](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc), and [📁 Cases](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg).
-- 🏷️ **Brand / marketing teams** → Find your industry in [🏢 Scenarios](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd), then execute with [🛠️ Practice](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse).
-- 🔬 **Researchers / analysts** → Go straight to [📚 Theory](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge), [⚙️ Mechanisms](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg), and the [research libraries](#-research--report-library).
+- 🧑‍🎓 **New to GEO** → Start at [🧭 Overview & Navigation](overview/README.md), then build vocabulary in [🔤 Concepts](concepts/README.md).
+- ✍️ **Creators / self-media operators** → Focus on [📣 Self-Media](media/README.md), [📐 Methods](methods/README.md), and [📁 Cases](cases/README.md).
+- 🏷️ **Brand / marketing teams** → Find your industry in [🏢 Scenarios](scenarios/README.md), then execute with [🛠️ Practice](practice/README.md).
+- 🔬 **Researchers / analysts** → Go straight to [📚 Theory](theory/README.md), [⚙️ Mechanisms](mechanism/README.md), and the [🎓 academic](library/papers/README.md) / [📊 report](library/reports/README.md) libraries.
 
 ---
 
@@ -168,7 +172,7 @@ Inclusion criteria: **publicly traceable, clearly graded, objective and neutral.
 
 **OpenGEO** is initiated and maintained by [shianlab](https://github.com/shianlab) as a continuously growing open project.
 
-- 🧭 Online knowledge base: <https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f>
+- ☁️ Online knowledge base (Feishu): <https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f>
 - 🐙 GitHub repository: <https://github.com/shianlab/OpenGEO>
 - 🌐 Project website: under construction
 
