@@ -13,9 +13,10 @@
 
 [简体中文](README.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md)
 
-[🧭 オンライン知識ベース](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f)
-· [📚 学術論文](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd)
-· [📰 業界レポート](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc)
+[🧭 ナビゲーション](overview/README.md)
+· [📚 学術論文](library/papers/README.md)
+· [📰 業界レポート](library/reports/README.md)
+· [☁️ オンライン知識ベース（Feishu）](https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f)
 · [🐙 GitHub](https://github.com/shianlab/OpenGEO)
 
 </div>
@@ -59,36 +60,38 @@ GEO は SEO を置き換えるものではありません。「答えそのも�
 
 ## 🏗️ 知識体系の全体像
 
-知識ベースは「**理論 → 仕組み → 概念 → 方法 → 実践**」という認知の道筋に沿って階層化され、さらにセルフメディア、シナリオ、ツール、事例、動向を備えています。各レイヤーはオンライン知識ベースで個別に閲覧できます：
+知識ベースは「**理論 → 仕組み → 概念 → 方法 → 実践**」という認知の道筋に沿って階層化され、さらにセルフメディア、シナリオ、ツール、事例、動向を備えています。下の「GitHub」列はこのリポジトリ内を直接閲覧でき、「Feishu」列は継続更新されるオンライン原文を指します：
 
-| レイヤー | 収録内容 | 入口 |
-| :--- | :--- | :--- |
-| 👋 **私たちについて** | プロジェクトの成り立ち、位置づけ、運用方針 | [開く](https://larkcommunity.feishu.cn/wiki/FRbqwPpwXiUbAqkBMoKcirjKnFc) |
-| 🧭 **全体像とナビ** | ライブラリ全体マップ、読書ルート、検索ガイド | [開く](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f) |
-| 📚 **理論レイヤー** | 学術論文、専門家の見解、白書／赤書／青書 | [開く](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge) |
-| ⚙️ **仕組みレイヤー** | AI 検索・生成・ランキング・引用の仕組みの分解 | [開く](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg) |
-| 🔤 **概念レイヤー** | GEO の主要用語と用語集 | [開く](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc) |
-| 📣 **セルフメディア層** | コンテンツプラットフォーム・アカウント運用と GEO | [開く](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd) |
-| 📐 **方法レイヤー** | 再利用可能な最適化フレームワーク・手順 | [開く](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc) |
-| 🛠️ **実践レイヤー** | 実務の操作マニュアルと現場メモ | [開く](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse) |
-| 🏢 **シナリオ層** | 業界・役割・規模ごとの GEO 適用場面 | [開く](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd) |
-| 🔧 **ツール層** | モニタリング・診断・最適化ツールの棚卸し | [開く](https://larkcommunity.feishu.cn/wiki/Wqskw7298ibxZSkxyxDcF5cjnGb) |
-| 📁 **事例レイヤー** | 実在ブランド・コンテンツの GEO ケース分解 | [開く](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg) |
-| 📰 **資料・動向レイヤー** | 業界ニュース、動向追跡、外部リソース案内 | [開く](https://larkcommunity.feishu.cn/wiki/I3ZWw4TM8iNZsxk0yDBcIVwGnSw) |
-| 🤝 **OpenGEO について** | オープン原則、協働方法、連絡先 | [開く](https://larkcommunity.feishu.cn/wiki/YXdZwU1LPiZr1OkciDqcSEZVnDI) |
+| レイヤー | 収録内容 | GitHub ミラー | Feishu 原文 |
+| :--- | :--- | :--- | :--- |
+| 👋 **私たちについて** | プロジェクトの成り立ち、位置づけ、運用方針 | — | [Feishu](https://larkcommunity.feishu.cn/wiki/FRbqwPpwXiUbAqkBMoKcirjKnFc) |
+| 🧭 **全体像とナビ** | ライブラリ全体マップ、読書ルート、検索ガイド | [開く](overview/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f) |
+| 📚 **理論レイヤー** | 学術論文、専門家の見解、白書／赤書／青書 | [開く](theory/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge) |
+| ⚙️ **仕組みレイヤー** | AI 検索・生成・ランキング・引用の仕組みの分解 | [開く](mechanism/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg) |
+| 🔤 **概念レイヤー** | GEO の主要用語と用語集 | [開く](concepts/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc) |
+| 📣 **セルフメディア層** | コンテンツプラットフォーム・アカウント運用と GEO | [開く](media/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd) |
+| 📐 **方法レイヤー** | 再利用可能な最適化フレームワーク・手順 | [開く](methods/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc) |
+| 🛠️ **実践レイヤー** | 実務の操作マニュアルと現場メモ | [開く](practice/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse) |
+| 🏢 **シナリオ層** | 業界・役割・規模ごとの GEO 適用場面 | [開く](scenarios/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd) |
+| 🔧 **ツール層** | モニタリング・診断・最適化ツールの棚卸し | [開く](tools/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Wqskw7298ibxZSkxyxDcF5cjnGb) |
+| 📁 **事例レイヤー** | 実在ブランド・コンテンツの GEO ケース分解 | [開く](cases/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg) |
+| 📰 **資料・動向レイヤー** | 業界ニュース、動向追跡、外部リソース案内 | [開く](resources/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/I3ZWw4TM8iNZsxk0yDBcIVwGnSw) |
+| 🤝 **OpenGEO について** | オープン原則、協働方法、連絡先 | — | [Feishu](https://larkcommunity.feishu.cn/wiki/YXdZwU1LPiZr1OkciDqcSEZVnDI) |
+
+> 各レイヤーのページは現在**フレームと目次**が中心です。本文は Feishu 知識ベースで執筆された後、本リポジトリに同期されます。各ページ冒頭に Feishu 原文へのリンクを掲載しています。
 
 ---
 
 ## 📚 論文・レポートライブラリ
 
-収録する資料はすべて**統一カタログ**で管理しています：表紙、著者／機関、発行年、言語と地域、テーマタグ、エビデンス等級、客観的な一言要約に加え、可能な場合は原文リンクと PDF を添付しています。
+収録する資料はすべて**統一カタログ**で管理しています：著者／機関、発行年、言語と地域、テーマタグ、エビデンス等級、客観的な一言要約に加え、公開原文へのリンクを添付しています。
 
-| ライブラリ | 件数 | 内容 | 入口 |
-| :--- | :---: | :--- | :--- |
-| 🎓 **学術論文** | **40** | 国際学術論文 39 件＋中国語訳 1 件。GEO、LLM の引用、生成検索などをカバー | [入る](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd) |
-| 📊 **業界レポート** | **28** | 国際・中国市場の業界レポート、白書／赤書／青書 | [入る](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc) |
+| ライブラリ | 件数 | 内容 | GitHub カタログ | Feishu ライブラリ（PDF 原本あり） |
+| :--- | :---: | :--- | :--- | :--- |
+| 🎓 **学術論文** | **40** | 国際学術論文 39 件＋中国語訳 1 件。GEO、LLM の引用、生成検索などをカバー | [索引を開く](library/papers/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd) |
+| 📊 **業界レポート** | **28** | 国際・中国市場の業界レポート、白書／赤書／青書 | [索引を開く](library/reports/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc) |
 
-> 第三者の論文・レポートの著作権は原著者・原機関に帰属します。OpenGEO は要約・書誌情報・公開ソースへのリンクのみを提供します。特定の立場に立つ、またはデータ口径に疑義のある商業資料には「慎重に読むべき資料」と明示します。
+> GitHub の索引には**書誌情報・一言要約・公開原文リンクのみ**を収録し、PDF 原本はホストしません（著作権とリポジトリ容量への配慮）。PDF と表紙カードは Feishu ライブラリページにあります。第三者の論文・レポートの著作権は原著者・原機関に帰属します。OpenGEO は要約・書誌情報・公開ソースへのリンクのみを提供します。特定の立場に立つ、またはデータ口径に疑義のある商業資料には「慎重に読むべき資料」と明示します。
 
 ---
 
@@ -102,6 +105,7 @@ OpenGEO/
 ├── README.en.md           # English
 ├── README.ja.md           # 日本語（このファイル）
 ├── README.ko.md           # 한국어
+├── overview/              # 🧭 全体像とナビ：全体マップと読書ルート
 ├── theory/                # 📚 理論：論文、専門家の見解、各種白書
 ├── mechanism/             # ⚙️ 仕組み：AI 検索と引用のメカニズム
 ├── concepts/              # 🔤 概念：用語集
@@ -113,8 +117,8 @@ OpenGEO/
 ├── cases/                 # 📁 事例：ケーススタディ
 ├── resources/             # 📰 資料・動向
 └── library/
-    ├── papers/            # 🎓 学術論文ミラー（40）
-    └── reports/           # 📊 業界レポートミラー（28）
+    ├── papers/            # 🎓 学術論文カタログ索引（40、PDF なし）
+    └── reports/           # 📊 業界レポートカタログ索引（28、PDF なし）
 ```
 
 ---
@@ -128,18 +132,18 @@ OpenGEO は「**1 か所で保守し、あらゆる場所へ公開**」するパ
 3. **公開** — 校閲済みコンテンツを GitHub リポジトリとプロジェクト公式サイトへ同期。GitHub は公開ミラー・変更履歴・コミュニティ協働の場；
 4. **継続的反復** — 更新時はバージョン番号を上げ、撤回や訂正も記録を残すことで、引用者が常に信頼できる版を取得できるようにします。
 
-> 読書体験が最も充実しているのはオンライン知識ベースです。変更の追跡、原文の引用、協働には GitHub が適しています。
+> 読書体験が最も充実し、更新が最も速いのは Feishu のオンライン知識ベースです。変更の追跡、原文の引用、協働には GitHub が適しています。
 
 ---
 
 ## 🚀 はじめ方
 
-役割に合わせた読書ルート：
+役割に合わせた読書ルート（リンクはすべて本リポジトリ内のページ）：
 
-- 🧑‍🎓 **GEO を初めて学ぶ方** → [🧭 全体像とナビ](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f)から始め、[🔤 概念](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc)で用語の基礎を固める。
-- ✍️ **クリエイター／セルフメディア運営** → [📣 セルフメディア](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd)、[📐 方法](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc)、[📁 事例](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg)を中心に。
-- 🏷️ **ブランド／マーケティングチーム** → [🏢 シナリオ](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd)で業界を確認し、[🛠️ 実践](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse)で実行へ。
-- 🔬 **研究者／アナリスト** → [📚 理論](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge)、[⚙️ 仕組み](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg)と[論文・レポートライブラリ](#-論文・レポートライブラリ)へ。
+- 🧑‍🎓 **GEO を初めて学ぶ方** → [🧭 全体像とナビ](overview/README.md)から始め、[🔤 概念](concepts/README.md)で用語の基礎を固める。
+- ✍️ **クリエイター／セルフメディア運営** → [📣 セルフメディア](media/README.md)、[📐 方法](methods/README.md)、[📁 事例](cases/README.md)を中心に。
+- 🏷️ **ブランド／マーケティングチーム** → [🏢 シナリオ](scenarios/README.md)で業界を確認し、[🛠️ 実践](practice/README.md)で実行へ。
+- 🔬 **研究者／アナリスト** → [📚 理論](theory/README.md)、[⚙️ 仕組み](mechanism/README.md)、[🎓 学術論文](library/papers/README.md)・[📊 業界レポート](library/reports/README.md)へ。
 
 ---
 
@@ -168,7 +172,7 @@ OpenGEO はオープンに運営されています。**Issue** と **Pull Reques
 
 **OpenGEO** は [shianlab](https://github.com/shianlab) によって立ち上げられ、継続的に成長しているオープンプロジェクトです。
 
-- 🧭 オンライン知識ベース：<https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f>
+- ☁️ オンライン知識ベース（Feishu）：<https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f>
 - 🐙 GitHub リポジトリ：<https://github.com/shianlab/OpenGEO>
 - 🌐 公式サイト：構築中
 
