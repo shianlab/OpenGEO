@@ -9,6 +9,10 @@
 
 > 引用块测试。
 
+## 二、更新分支测试
+
+第二次 publish 应识别为更新：版本 v1.0 → v1.1，网站收录状态置为「更新中」。
+
 ---
 
 *本页同步自 OpenGEO 飞书知识库 · [飞书原文](https://larkcommunity.feishu.cn/wiki/HvhjwSzq2iSuc6knLEncAxDbngc) · 内容以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 开放授权。*
