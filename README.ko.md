@@ -7,15 +7,16 @@
 **AI 검색 시대에 당신의 브랜드, 제품, 콘텐츠가 우선적으로 인용되고 추천되도록.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)#-기여하기)
-[![Sources](https://img.shields.io/badge/수록%20자료-68%2B-orange.svg)#-논문·리포트-라이브러리)
-[![Status: Building](https://img.shields.io/badge/status-지속%20구축%20중-yellow.svg)#-콘텐츠-업데이트-방식)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./#-기여하기)
+[![Sources](https://img.shields.io/badge/수록%20자료-68%2B-orange.svg)](./#-논문리포트-라이브러리)
+[![Status: Building](https://img.shields.io/badge/status-지속%20구축%20중-yellow.svg)](./#-콘텐츠-업데이트-방식)
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어**
 
-[🧭 온라인 지식 베이스](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f)
-· [📚 학술 논문](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd)
-· [📰 산업 리포트](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc)
+[🧭 내비게이션](overview/README.md)
+· [📚 학술 논문](library/papers/README.md)
+· [📰 산업 리포트](library/reports/README.md)
+· [☁️ 온라인 지식 베이스(Feishu)](https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f)
 · [🐙 GitHub](https://github.com/shianlab/OpenGEO)
 
 </div>
@@ -59,36 +60,38 @@ GEO는 SEO를 대체하는 것이 아닙니다. "답 자체가 관문"이 되는
 
 ## 🏗️ 지식 체계 전경
 
-지식 베이스는 **이론 → 메커니즘 → 개념 → 방법 → 실천**이라는 인지 경로에 따라 계층화되어 있으며, 셀프 미디어·시나리오·도구·사례·동향을 함께 아우릅니다. 각 계층은 온라인 지식 베이스에서 독립적으로 탐색할 수 있습니다:
+지식 베이스는 **이론 → 메커니즘 → 개념 → 방법 → 실천**이라는 인지 경로에 따라 계층화되어 있으며, 셀프 미디어·시나리오·도구·사례·동향을 함께 아우릅니다. 아래 **GitHub** 열은 이 저장소 안을 바로 탐색하고, **Feishu** 열은 지속 갱신되는 온라인 원문을 가리킵니다:
 
-| 계층 | 수록 내용 | 바로가기 |
-| :--- | :--- | :--- |
-| 👋 **소개** | 프로젝트의 유래, 포지셔닝, 운영 설명 | [열기](https://larkcommunity.feishu.cn/wiki/FRbqwPpwXiUbAqkBMoKcirjKnFc) |
-| 🧭 **전경과 내비게이션** | 전체 지도, 읽기 경로, 검색 가이드 | [열기](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f) |
-| 📚 **이론 계층** | 학술 논문, 전문가 견해, 백서/레드북/블루북 | [열기](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge) |
-| ⚙️ **메커니즘 계층** | AI 검색·생성·랭킹·인용의 작동 원리 분해 | [열기](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg) |
-| 🔤 **개념 계층** | GEO 핵심 용어와 용어집 | [열기](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc) |
-| 📣 **셀프 미디어 계층** | 콘텐츠 플랫폼·계정 운영과 GEO의 결합 | [열기](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd) |
-| 📐 **방법 계층** | 재사용 가능한 최적화 프레임워크와 절차 | [열기](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc) |
-| 🛠️ **실천 계층** | 실무 매뉴얼과 현장 기록 | [열기](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse) |
-| 🏢 **시나리오 계층** | 산업·역할·규모별 GEO 적용 시나리오 | [열기](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd) |
-| 🔧 **도구 계층** | 모니터링·진단·최적화 도구 목록 | [열기](https://larkcommunity.feishu.cn/wiki/Wqskw7298ibxZSkxyxDcF5cjnGb) |
-| 📁 **사례 계층** | 실제 브랜드와 콘텐츠의 GEO 사례 분해 | [열기](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg) |
-| 📰 **자료·동향 계층** | 산업 뉴스, 동향 추적, 외부 자료 안내 | [열기](https://larkcommunity.feishu.cn/wiki/I3ZWw4TM8iNZsxk0yDBcIVwGnSw) |
-| 🤝 **OpenGEO 소개** | 개방 원칙, 협업 방식, 연락처 | [열기](https://larkcommunity.feishu.cn/wiki/YXdZwU1LPiZr1OkciDqcSEZVnDI) |
+| 계층 | 수록 내용 | GitHub 미러 | Feishu 원문 |
+| :--- | :--- | :--- | :--- |
+| 👋 **소개** | 프로젝트의 유래, 포지셔닝, 운영 설명 | — | [Feishu](https://larkcommunity.feishu.cn/wiki/FRbqwPpwXiUbAqkBMoKcirjKnFc) |
+| 🧭 **전경과 내비게이션** | 전체 지도, 읽기 경로, 검색 가이드 | [열기](overview/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f) |
+| 📚 **이론 계층** | 학술 논문, 전문가 견해, 백서/레드북/블루북 | [열기](theory/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge) |
+| ⚙️ **메커니즘 계층** | AI 검색·생성·랭킹·인용의 작동 원리 분해 | [열기](mechanism/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg) |
+| 🔤 **개념 계층** | GEO 핵심 용어와 용어집 | [열기](concepts/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc) |
+| 📣 **셀프 미디어 계층** | 콘텐츠 플랫폼·계정 운영과 GEO의 결합 | [열기](media/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd) |
+| 📐 **방법 계층** | 재사용 가능한 최적화 프레임워크와 절차 | [열기](methods/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc) |
+| 🛠️ **실천 계층** | 실무 매뉴얼과 현장 기록 | [열기](practice/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse) |
+| 🏢 **시나리오 계층** | 산업·역할·규모별 GEO 적용 시나리오 | [열기](scenarios/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd) |
+| 🔧 **도구 계층** | 모니터링·진단·최적화 도구 목록 | [열기](tools/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/Wqskw7298ibxZSkxyxDcF5cjnGb) |
+| 📁 **사례 계층** | 실제 브랜드와 콘텐츠의 GEO 사례 분해 | [열기](cases/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg) |
+| 📰 **자료·동향 계층** | 산업 뉴스, 동향 추적, 외부 자료 안내 | [열기](resources/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/I3ZWw4TM8iNZsxk0yDBcIVwGnSw) |
+| 🤝 **OpenGEO 소개** | 개방 원칙, 협업 방식, 연락처 | — | [Feishu](https://larkcommunity.feishu.cn/wiki/YXdZwU1LPiZr1OkciDqcSEZVnDI) |
+
+> 각 계층 페이지는 현재 **프레임과 목차**가 중심이며, 본문은 Feishu 지식 베이스에서 집필된 뒤 이 저장소로 동기화됩니다. 각 페이지 상단에 Feishu 원문 링크를 표시합니다.
 
 ---
 
 ## 📚 논문·리포트 라이브러리
 
-수록하는 모든 자료는 **통일된 목록**으로 관리합니다: 표지, 저자/기관, 발행 연도, 언어와 지역, 주제 태그, 증거 등급, 객관적인 한 줄 요약과 함께, 가능한 경우 원문 링크와 PDF를 첨부합니다.
+수록하는 모든 자료는 **통일된 목록**으로 관리합니다: 저자/기관, 발행 연도, 언어와 지역, 주제 태그, 증거 등급, 객관적인 한 줄 요약과 함께 공개 원문 링크를 첨부합니다.
 
-| 라이브러리 | 수 | 내용 | 바로가기 |
-| :--- | :---: | :--- | :--- |
-| 🎓 **학술 논문** | **40** | 국제 학술 논문 39편 + 중국어 번역 1편. GEO, LLM 인용, 생성형 검색 등을 아우름 | [입장](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd) |
-| 📊 **산업 리포트** | **28** | 국제 및 중국 시장 산업 리포트, 백서/레드북/블루북 | [입장](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc) |
+| 라이브러리 | 수 | 내용 | GitHub 목록 | Feishu 라이브러리(PDF 원본) |
+| :--- | :---: | :--- | :--- | :--- |
+| 🎓 **학술 논문** | **40** | 국제 학술 논문 39편 + 중국어 번역 1편. GEO, LLM 인용, 생성형 검색 등을 아우름 | [색인 열기](library/papers/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/L1rmwFbWKiLzPzkaxGIcoIh2nXd) |
+| 📊 **산업 리포트** | **28** | 국제 및 중국 시장 산업 리포트, 백서/레드북/블루북 | [색인 열기](library/reports/README.md) | [Feishu](https://larkcommunity.feishu.cn/wiki/FzD4wAQqeiAQqyk6X6rcCTQynuc) |
 
-> 제3자의 논문과 리포트 저작권은 원저자와 원기관에 귀속됩니다. OpenGEO는 요약·서지 정보·공개 출처 링크만 제공하며, 특정 입장을 가지거나 데이터 산정 방식에 의문이 있는 상업 자료는 "신중한 열람 필요"로 명시합니다.
+> GitHub 색인에는 **서지 정보·한 줄 요약·공개 원문 링크만** 수록하며 PDF 원본은 호스팅하지 않습니다(저작권과 저장소 용량 고려). PDF와 표지 카드는 Feishu 라이브러리 페이지에 있습니다. 제3자의 논문과 리포트 저작권은 원저자와 원기관에 귀속됩니다. OpenGEO는 요약·서지 정보·공개 출처 링크만 제공하며, 특정 입장을 가지거나 데이터 산정 방식에 의문이 있는 상업 자료는 "신중한 열람 필요"로 명시합니다.
 
 ---
 
@@ -102,6 +105,7 @@ OpenGEO/
 ├── README.en.md           # English
 ├── README.ja.md           # 日本語
 ├── README.ko.md           # 한국어(이 파일)
+├── overview/              # 🧭 전경과 내비게이션: 전체 지도와 읽기 경로
 ├── theory/                # 📚 이론: 논문, 전문가 견해, 각종 백서
 ├── mechanism/             # ⚙️ 메커니즘: AI 검색과 인용 원리
 ├── concepts/              # 🔤 개념: 용어집
@@ -113,8 +117,8 @@ OpenGEO/
 ├── cases/                 # 📁 사례: 케이스 스터디
 ├── resources/             # 📰 자료·동향
 └── library/
-    ├── papers/            # 🎓 학술 논문 미러(40)
-    └── reports/           # 📊 산업 리포트 미러(28)
+    ├── papers/            # 🎓 학술 논문 목록 색인(40, PDF 없음)
+    └── reports/           # 📊 산업 리포트 목록 색인(28, PDF 없음)
 ```
 
 ---
@@ -128,18 +132,18 @@ OpenGEO는 **"한 곳에서 유지보수하고, 모든 곳에 공개"**하는 �
 3. **공개 발행** — 검토를 마친 콘텐츠를 GitHub 저장소와 프로젝트 공식 사이트에 동기화. GitHub는 공개 미러·변경 이력·커뮤니티 협업의 장;
 4. **지속 반복** — 갱신 시 버전 번호를 올리고, 철회와 정정도 이력을 남겨 인용자가 항상 신뢰 가능한 버전을 받도록 보장합니다.
 
-> 가장 완성도 높은 독서 경험은 온라인 지식 베이스에 있습니다. 변경 추적, 원문 인용, 협업에는 GitHub가 적합합니다.
+> 가장 완성도가 높고 갱신이 빠른 독서 경험은 Feishu 온라인 지식 베이스에 있습니다. 변경 추적, 원문 인용, 협업에는 GitHub가 적합합니다.
 
 ---
 
 ## 🚀 빠른 시작
 
-역할에 따라 읽기 경로를 선택하세요:
+역할에 따라 읽기 경로를 선택하세요(모든 링크는 이 저장소 안의 페이지를 가리킵니다):
 
-- 🧑‍🎓 **GEO를 처음 접한다면** → [🧭 전경과 내비게이션](https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f)에서 시작해 [🔤 개념](https://larkcommunity.feishu.cn/wiki/WYHWwjmYViLhrikM1XJcQsGLngc)에서 용어 기초를 다지세요.
-- ✍️ **크리에이터 / 셀프 미디어 운영** → [📣 셀프 미디어](https://larkcommunity.feishu.cn/wiki/Mr1awSIjKi1Nt8kotDgclXJ5ncd), [📐 방법](https://larkcommunity.feishu.cn/wiki/InnLwkfWmighMikrwItcw5SSnAc), [📁 사례](https://larkcommunity.feishu.cn/wiki/TcKCweGhmiPqDZkXmdqchIWRnEg)를 중심으로 보세요.
-- 🏷️ **브랜드 / 마케팅 팀** → [🏢 시나리오](https://larkcommunity.feishu.cn/wiki/SmnlwLLDxiSZbvk0JrQc9G1gnYd)에서 산업을 찾고 [🛠️ 실천](https://larkcommunity.feishu.cn/wiki/HDaiw48TkiRKB5kVU3ccvVnYnse)으로 실행하세요.
-- 🔬 **연구자 / 애널리스트** → [📚 이론](https://larkcommunity.feishu.cn/wiki/V4k9wIM72iQX7okyEFrcoCqdnge), [⚙️ 메커니즘](https://larkcommunity.feishu.cn/wiki/CSAbwRmMiiBqHZkT7fAcseCxnlg)과 [논문·리포트 라이브러리](#-논문·리포트-라이브러리)로 바로 가세요.
+- 🧑‍🎓 **GEO를 처음 접한다면** → [🧭 전경과 내비게이션](overview/README.md)에서 시작해 [🔤 개념](concepts/README.md)에서 용어 기초를 다지세요.
+- ✍️ **크리에이터 / 셀프 미디어 운영** → [📣 셀프 미디어](media/README.md), [📐 방법](methods/README.md), [📁 사례](cases/README.md)를 중심으로 보세요.
+- 🏷️ **브랜드 / 마케팅 팀** → [🏢 시나리오](scenarios/README.md)에서 산업을 찾고 [🛠️ 실천](practice/README.md)으로 실행하세요.
+- 🔬 **연구자 / 애널리스트** → [📚 이론](theory/README.md), [⚙️ 메커니즘](mechanism/README.md)과 [🎓 학술 논문](library/papers/README.md)·[📊 산업 리포트](library/reports/README.md)로 바로 가세요.
 
 ---
 
@@ -168,7 +172,7 @@ OpenGEO는 개방 원칙으로 운영되며, **Issue**와 **Pull Request**를 �
 
 **OpenGEO**는 [shianlab](https://github.com/shianlab)이 시작하고 지속적으로 성장시키는 공개 프로젝트입니다.
 
-- 🧭 온라인 지식 베이스: <https://larkcommunity.feishu.cn/wiki/Ll1wQDGRioR5mk6d4tc8tfDn7f>
+- ☁️ 온라인 지식 베이스(Feishu): <https://larkcommunity.feishu.cn/wiki/Ll1HwQDGRioR5mk6d4tc8tfDn7f>
 - 🐙 GitHub 저장소: <https://github.com/shianlab/OpenGEO>
 - 🌐 공식 사이트: 구축 중
 
