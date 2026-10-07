@@ -1,27 +1,8 @@
-概念边界：SEO / AEO / GEO / LLMO / AISEO
 # 概念边界：SEO / AEO / GEO / LLMO / AISEO
 
 [《GEO 的起源与定义演进》](https://larkcommunity.feishu.cn/wiki/IaTlwaAyEitErekq9pYcWSgnneb)已经说明，GEO 关注内容经过检索和生成之后如何呈现。沿着这一认识，还需要厘清一个问题：页面更容易被找到、某个问题得到直接回答，以及内容进入综合建议，分别属于哪些优化范围？SEO、AEO、LLMO 和 AISEO 与它存在交叉，但强调的对象各有不同。
 
 比较的依据是优化对象与结果形态，不能只按术语出现的先后把它们排成替代关系。其中 AEO、LLMO 和 AISEO 的用法尚未完全统一，还需结合原作者描述的系统与任务理解。
-
-```mermaid
-flowchart TB
-    subgraph Base["共同基础：内容可访问 · 可理解 · 可检索"]
-        SEO["SEO
-搜索中的发现与呈现"]
-    end
-    SEO --> AEO["AEO
-对问题的直接回应"]
-    AEO --> GEO["GEO
-生成式综合回答中的呈现"]
-    LLMO["LLMO · 大语言模型优化
-需区分：模型工程 / 内容传播"]
-    AISEO["AISEO
-需区分：AI搜索目标 / AI辅助手段"]
-    GEO -. 交叉 .-> LLMO
-    GEO -. 交叉 .-> AISEO
-```
 
 ## 一、SEO：面向搜索系统的信息发现与呈现
 

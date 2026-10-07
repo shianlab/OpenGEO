@@ -6,7 +6,7 @@
 
 系统可以在输入中为来源编号，让模型生成答案时引用编号；也可以使用工具返回的引用标注；还可以在答案形成后进行归属匹配。不同应用可能组合多种方式。不能仅凭相同的上标样式，判断内部流程相同。
 
-ALCE 研究将带引用的文本生成作为任务，并分别评价回答和引用质量。[Enabling Large Language Models to Generate Text with Citations](https://arxiv.org/abs/2305.14627)这说明引用需要专门设计与评价，无法由一般文字生成能力自动保证。
+Gao 等人发表于 EMNLP 2023 的《Enabling Large Language Models to Generate Text with Citations》（ALCE）将带引用的文本生成作为任务，并分别评价回答和引用质量。[Enabling Large Language Models to Generate Text with Citations](https://arxiv.org/abs/2305.14627)这说明引用需要专门设计与评价，无法由一般文字生成能力自动保证。
 
 应用界面还会影响用户所见。模型返回来源标注后，前端可能将其显示为上标、卡片或来源列表。界面没有展示所有过程信息，不能因此推断系统只使用了可见的几个来源；反之，来源列表也未必证明每项来源都支撑了答案。
 
@@ -103,6 +103,8 @@ ALCE 研究将带引用的文本生成作为任务，并分别评价回答和引
 如果研究来源曝光，可以按回答中是否出现某域名计数；如果研究证据质量，需要按主张的支持关系判断；如果研究商业影响，还要识别来源是谁、推荐对象是谁、推荐态度是什么。同一条引用可以同时涉及三个对象，统计时应避免混用。
 
 例如，一个第三方测评被引用来说明品牌甲不满足用户条件。第三方获得一次来源呈现，品牌甲获得一次提及，但没有获得正向推荐。将它们统一记作品牌“获得 AI 推荐”，会改变观测事实的含义。指标定义越具体，后续解释越可靠。
+
+关于来源支持与世界事实的区别，可继续查阅[Grounding、忠实性与事实正确性](https://larkcommunity.feishu.cn/wiki/F4zawyxnGiqturkGSvQcpjGpnRb)；具体标签、独立复核与分歧处理，见[回答评审方法](https://larkcommunity.feishu.cn/wiki/QqHmwHXbYiStDikQjcjcnLQlnUe)。
 
 ---
 

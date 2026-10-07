@@ -1,0 +1,17 @@
+{
+ "repo": "shianlab/OpenGEO",
+ "branch": "main",
+ "files": [
+  {
+   "path": "methods/content-source-audit-correction.md",
+   "local_file": "/tmp/opengeo_publish/staging/methods/content-source-audit-correction.md"
+  }
+ ],
+ "code": "MTH-004",
+ "action": "create",
+ "version": "v1.0",
+ "commit_message": "publish: 内容来源审核与更正维护（MTH-004）",
+ "record_id": "recvxkIIyOjAK2",
+ "wiki_token": "SHfqwgXgyiqBeokU9zbcms46nvg",
+ "stub": false
+}

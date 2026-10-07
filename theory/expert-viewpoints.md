@@ -1,4 +1,3 @@
-专家论断与观点集
 # 专家论断与观点集
 
 [《概念边界》](https://larkcommunity.feishu.cn/wiki/C8RIwQJN4imJpGkuRZscDZv5npc)区分了搜索发现、直接回答与生成式呈现。沿着这些区别看公开论述，就能理解不同作者为什么会得出不同侧重的结论：研究者通过实验比较内容表现，平台团队解释参与条件，独立机构观察用户行为。他们讨论的环节不同，证据的适用范围也不同。
@@ -57,7 +56,7 @@ Anthropic 于 2024 年 9 月发布《Introducing Contextual Retrieval》，研�
 
 ## 六、微软 Bing 团队：引用已经成为单独的可观察结果
 
-2026 年 2 月，Krishna Madhavan、Meenaz Merchant、Fabrice Canel 和 Saral Nigam 在 Bing 官方博客介绍 AI Performance 公测。它显示网站内容在 Microsoft Copilot、Bing 生成式概述及部分合作体验中的引用情况，包括引用次数、涉及页面和相关检索信息。[官方公告](https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview)
+2026 年 2 月，Krishna Madhavan、Meenaz Merchant、Fabrice Canel 和 Saral Nigam 在 Bing 官方博客介绍 AI Performance 公测。它显示网站内容在 Microsoft Copilot、Bing 生成式概述及部分合作体验中的引用情况，包括引用次数、涉及页面和相关检索信息。[官方公告](https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/)
 
 该说明特别区分引用次数与排名、页面重要性和答案内位置。这种区分反映了一项测量原则：可观察到来源被列出，并不足以恢复整个回答中的角色。某个页面被引用很多次，可以说明它在支持范围内反复出现；用户是否注意到、是否点击、是否将其理解为推荐，还需要其他信息。
 
